@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local user/game data
+highscore.txt
+
+# MediaPipe pre-trained model files (large binary assets)
+hand_landmarker.task
+
+# OS-generated files
+.DS_Store
+Thumbs.db
